@@ -1,0 +1,6 @@
+get API 
+set html 
+add bootstrap
+do basic CSS
+do javascript
+add flare to css with google fonts
