@@ -26,7 +26,7 @@ $("#search-city").on("click", function (event) {
 	console.log(city);
 
 	var queryURL1 =
-		"https://api.oenweathermap.org/data/2.5/weather?q=" +
+		rootUrl +
 		city +
 		"&appid=" +
 		APIKey;
