@@ -1,0 +1,14 @@
+:root {
+ --darkblue: rgb(10, 10, 133);
+ --lightblue: rgb(28, 28, 239);
+ --card: rgb(38, 38, 55);
+ --button: rgb(51, 199, 245);
+ --city: rgb(87, 87, 88);
+}
+
+header{
+    height: 100px;
+    background-color: var(--lightblue); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, var(--lightblue), var(--darkblue));
+}
+
